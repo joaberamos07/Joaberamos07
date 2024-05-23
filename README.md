@@ -1,16 +1,19 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🥇
 
-<!--
-**joaberamos07/Joaberamos07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Joabe
 
-Here are some ideas to get you started:
+-Estou estudanto no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me dsenvolvendo na linguagem Javascript
+
+-Utilizo esse espaçopara minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Voce pode entrar em contado comigo 📫
+
+-00001076703793sp@al.educacao.sp.gov.br
+joabe ramos
+
+
+
+![](https://media1.tenor.com/m/1nwjs8in1DUAAAAd/el-bicho-tomando-jugo-cr7.gif)
+![](https://media.tenor.com/U82DbCrzbmcAAAAM/lebron.gif)
